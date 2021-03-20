@@ -4,7 +4,7 @@
 
 #### yarn install or npm i
 #### yarn start
-### yarn run android
+#### yarn run android
 
 # Techs
 
